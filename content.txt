@@ -1,0 +1,18 @@
+Binary Trees
+
+    Binary Tree introduction(root, node, edges, parent, children,path, ..... all vocabulary)
+    Properties of Binary Tree (height of binary tree, #leaves, ...counting related)
+    Implementation of Binary Trees
+    BFS and DFS
+    Tree traversals(Inorder, Preorder, Postorder, level order)
+    Construction of Binary Tree given some relevant traversals
+    Applications of Binary Trees
+
+Binary Search Trees
+
+    What a BST is?
+    Implementation of dictionary operation(search, insert, delete)
+    Performance of BST on dictionary operations over other data structures
+    Inorder traversal on BST
+    Applications of BST
+
